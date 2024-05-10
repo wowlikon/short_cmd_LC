@@ -1,0 +1,35 @@
+{
+  "delay": 0.01,
+  "self": "me",
+  "players": [
+    "p1",
+    "p2",
+    "p3"
+  ],
+  "commands": {
+    "z": {
+      "type": "single",
+      "value": "scan"
+    },
+    "x": {
+      "type": "multiple",
+      "value": "switch "
+    },
+    "c": {
+      "type": "single",
+      "value": "confirm"
+    },
+    "v": {
+      "type": "single",
+      "value": "view monitor"
+    },
+    "b": {
+      "type": "single",
+      "value": "deny"
+    },
+    "~": {
+      "type": "print",
+      "value": "hello world"
+    }
+  }
+}
