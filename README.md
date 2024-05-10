@@ -4,7 +4,7 @@ This code for write commands in Lethal Company using hotkeys.
 * "+" for enable
 * "-" for disenable
 
-#How to use
+### How to use
 1. Download the code
 2. Install requirements
 3. Edit `configuration.json`
