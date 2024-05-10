@@ -58,7 +58,11 @@ print('working...\npress "-" to pause\npress "+" to resume')
 try:
     while True:
         for cmd in commands: keyboard.add_hotkey(cmd.key, cmd.run)
+        
         keyboard.wait("-")
+        keyboard.press_and_release('backspace')
         keyboard.remove_all_hotkeys()
+        
         keyboard.wait("+")
+        keyboard.press_and_release('backspace')
 except: print("stop!")
