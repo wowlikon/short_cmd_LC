@@ -1,4 +1,4 @@
-#LethalCompany shortcuts
+# LethalCompany shortcuts
 This code for write commands in Lethal Company using hotkeys.
 
 * "+" for enable
