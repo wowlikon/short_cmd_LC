@@ -1,3 +1,4 @@
+![lethalCompany](https://cdn.akamai.steamstatic.com/steam/apps/1966720/capsule_616x353.jpg)
 # LethalCompany shortcuts
 This code for write commands in Lethal Company using hotkeys.
 
